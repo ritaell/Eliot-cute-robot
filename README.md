@@ -92,6 +92,5 @@ https://github.com/user-attachments/assets/6339da41-89e8-4aab-8676-338427ba0558
 
 ## 📚 **References**
 
-- [KY-036 Metal Touch Sensor](https://www.instructables.com/KY-036-Metal-Touch-Sensor-Module/)  
 - [FluxGarage RoboEyes](https://github.com/FluxGarage/RoboEyes)  
 - [Adafruit SSD1306 library](https://github.com/adafruit/Adafruit_SSD1306)  
